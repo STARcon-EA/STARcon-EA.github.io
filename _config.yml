@@ -19,7 +19,7 @@ description: Scientific and Technical Amateur Radio congress, el único congreso
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://starcon-ea.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/header_image.jpg"  # Main page background
 logo: "/assets/logo_header.png"
 
 # Build settings
