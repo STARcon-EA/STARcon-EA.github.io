@@ -16,7 +16,14 @@ layout: default
 {% unless page.cover %} {% include page_divider.html %} {% endunless %}
 
 <section class="post-meta">
-  <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
+  <div class="post-date">
+    {% capture i18n_date %}
+      {{ page.date | date: "%-d" }}
+      {% assign m = page.date | date: "%-m" | minus: 1 %}
+      {{ site.data.fr.months[m] }}
+      {{ page.date | date: "%Y" }}
+    {% endcapture %}
+  </div>
   <div class="post-categories">
   {% if page.categories.size > 0 %}in {% for cat in page.categories %}
     {% if site.jekyll-archives %}
