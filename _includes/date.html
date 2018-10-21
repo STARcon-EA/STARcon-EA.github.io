@@ -1,6 +1,6 @@
-    {% capture i18n_date %}
-      {{ page.date | date: "%-d" }}
-      {% assign m = page.date | date: "%-m" | minus: 1 %}
-      {{ site.data.es.months[m] }}
-      {{ page.date | date: "%Y" }}
-    {% endcapture %}
+{% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
+{% assign m = post.date | date: "%-m" | minus: 1 %}
+{% assign day = post.date | date: "%d" %}
+{% assign month = months[m] %}
+{% assign year = post.date | date: "%Y" %}
+{{ day }} de {{ month }} de {{ year }}
