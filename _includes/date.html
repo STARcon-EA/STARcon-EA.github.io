@@ -1,6 +1,13 @@
+{% if post.date %}
+  {% assign curr_date = post.date %}
+{% elsif page.date %}
+  {% assign curr_date = page.date %}
+{% else %}
+  {% assign curr_date = site.time %}
+{% endif %}
 {% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
-{% assign m = post.date | date: "%-m" | minus: 1 %}
-{% assign day = post.date | date: "%d" %}
+{% assign m = curr_date | date: "%-m" | minus: 1 %}
+{% assign day = curr_date | date: "%d" %}
 {% assign month = months[m] %}
-{% assign year = post.date | date: "%Y" %}
+{% assign year = curr_date | date: "%Y" %}
 {{ day }} de {{ month }} de {{ year }}
