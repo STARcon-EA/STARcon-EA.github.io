@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Congreso STARcon
 subtitle: "Scientific and Technical Amateur Radio Congress"
-email: no@mail.com
+email: starcon@radiocluberrante.es
 name: STARcon
 description: Scientific and Technical Amateur Radio congress, el único congreso de radio científica y técnica en España.
 # Base URL of site (i.e. /blog). It should always start with a slash,
