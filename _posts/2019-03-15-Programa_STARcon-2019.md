@@ -21,7 +21,7 @@ Politécnica de Madrid](http://www.upm.es/) los días 6 y 7 de abril de 2019.
 * 13:15 - 15:15 Comida
 
 * 15:15 - 16:15 Julián J. Santamaría ([AEMET](http://www.aemet.es/es/portada)) - [Sensores digitales de variables meteorológicas, su aplicación a los radiosondeos](http://starcon-ea.github.io/abstracts-2019/julian_aemet.pdf)
-* 16:15 - 17:15 Santiago Félix García EA3GLY - [Estudio y ensayos de antena EH para banda 20m](http://starcon-ea.github.io/abstracts-2019/STARCON2019EA3GLY.pdf)
+* 16:15 - 17:15 Santiago Félix García EA3GLY ([La Salle](https://www.salleurl.edu/en)) - [Estudio y ensayos de antena EH para banda 20m](http://starcon-ea.github.io/abstracts-2019/STARCON2019EA3GLY.pdf)
 * 17:15 - 17:30 Coffee break
 * 17:30 - 18:30 [Enric Fraile EA3BTZ](http://ea3btz.com/), Dr. Joan Luis Pijoan ([La Salle](https://www.salleurl.edu/en)) - [Comunicaciones NVIS para la redes de emergencias](http://starcon-ea.github.io/abstracts-2019/Abstract_EA3BTZ.pdf)
 
