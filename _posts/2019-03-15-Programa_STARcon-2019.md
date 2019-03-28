@@ -29,5 +29,5 @@ Politécnica de Madrid](http://www.upm.es/) los días 6 y 7 de abril de 2019.
 * 09:30 - 10:00 Francisco Jesús Acién, Ignacio Esteban López (Radio Club ETSIT EA4RCT) - [Cómo administrar un RadioClub en una Escuela Universitaria de Ingeniería](http://starcon-ea.github.io/abstracts-2019/CallForPaperStarcon.pdf)
 * 10:00 - 11:00 [Gonzalo Carracedo EA1IYR](http://actinid.org/) - [SIGINT y códigos convolucionales: de la teoría a la práctica](http://starcon-ea.github.io/abstracts-2019/abstract_EA1IYR.pdf)
 * 11:00 - 11:15 Coffee break
-* 11:15 - 12:15 Fernando Martín-Porqueras ([ESAC](http://www.esa.int/About_Us/ESAC/)) - Interferencias, un problema para la ciencia desde el espacio
-* 12:15 - 13:15 Manuel Carbonell EC4AA - [Sistemas de RF para RPAS: tendencias y previsiones](http://starcon-ea.github.io/abstracts-2019/Resumen_EC4AA.pdf)
+* 11:15 - 11:45 Fernando Martín-Porqueras ([ESAC](http://www.esa.int/About_Us/ESAC/)) - Interferencias, un problema para la ciencia desde el espacio
+* 11:45 - 12:45 Manuel Carbonell EC4AA - [Sistemas de RF para RPAS: tendencias y previsiones](http://starcon-ea.github.io/abstracts-2019/Resumen_EC4AA.pdf)
