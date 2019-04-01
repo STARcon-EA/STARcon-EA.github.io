@@ -21,7 +21,7 @@ Complutense](https://goo.gl/maps/Es9y7yKdKB62), cerca de la entrada de la ETSIT.
 
 La cafetería de la ETSIT, ubicada en el [Edificio A (Sanz
 Mancebo)](https://goo.gl/maps/WnD1KYxp3cT2) permanecerá abierta de 8:00 a
-13:30. Asimismo, en la segunda planta del Edificio C hay disponibles máquinas
+13:30 durante el sábado. Asimismo, en la segunda planta del Edificio C hay disponibles máquinas
 expendedoras de bebidas y alimentos.
 
 El horario de comida para el sábado está fijado de 13:15 a 15:15. Al ser fin de
