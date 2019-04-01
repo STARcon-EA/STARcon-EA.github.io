@@ -5,8 +5,9 @@ categories: Anuncios
 ---
 
 El congreso STARcon 2019 se celebrará en la [Escuela Técnica Superior de
-Ingenerieros de Telecomunicación](http://www.etsit.upm.es/) de la [Universidad
-Politécnica de Madrid](http://www.upm.es/) los días 6 y 7 de abril de 2019.
+Ingenerieros de Telecomunicación (ETSIT)](http://www.etsit.upm.es/) de la [Universidad
+Politécnica de Madrid](http://www.upm.es/) los días 6 y 7 de abril de 2019. El programa detallado
+puede encontrase [aquí](https://starcon-ea.github.io/anuncios/2019/03/15/Programa_STARcon-2019.html).
 
 Las instrucciones acerca de cómo llegar a la ETSIT se pueden consultar [en esta
 web](http://www.etsit.upm.es/escuela/informacion-general/como-llegar.html). El
@@ -26,7 +27,7 @@ expendedoras de bebidas y alimentos.
 El horario de comida para el sábado está fijado de 13:15 a 15:15. Al ser fin de
 semana, la mayoría de establecimientos en el campus estarán cerrados. Damos
 total libertad a los asistentes para que organicen su comida como crean
-conveniente. Sugerimos tomar el metro (a unos 10 minutos andando de la ETSIT)
+conveniente. Sugerimos tomar el metro (parada de Ciudad Universitaria, a unos 10 minutos andando desde la ETSIT)
 hasta Moncloa (una parada), donde pueden encontrarse todo tipo de
 establecimientos.
 
